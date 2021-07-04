@@ -50,4 +50,4 @@ for filename in os.listdir():
 dict = {'song': Song , 'mfcc hash': mfccHashList,'mel spectrogram hash':melSpectroHashList,'Chroma_stft hash':chromaHashList}
 df = pd.DataFrame(dict)
 print(df.head)
-df.to_csv('NewSongsDataBase.csv',index=False,header=False)
+df.to_csv('CreateDB/NewSongsDataBase.csv',index=False,header=False)
