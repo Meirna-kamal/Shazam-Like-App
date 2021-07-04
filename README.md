@@ -11,4 +11,4 @@ In order to make your own CSV Database:
 3. Pick either one song, or two songs and mix between them (The slider percentage applies to the first song while the second songs take 100-Percentage)
 4. Click the search button to see what songs from your data base match the Songs you entered the best:)
 ## Images
-![picture alt](ShazamIMG)
+![picture alt](ShazamIMG.PNG)
